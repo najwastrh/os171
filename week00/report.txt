@@ -1,0 +1,2 @@
+#najwa_satirah Membuat akun github dan repo, lalu mengisi form, lalu ssh ke badak.
+
