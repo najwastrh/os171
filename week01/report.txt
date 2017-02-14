@@ -1,0 +1,1 @@
+Pada lab week01, tutorial dalam menguasai command-command di terminal seperti touch, cd, dll. Juga membuat file tanpa membuka text editor spt notepad, dan belajar menggunakan git
