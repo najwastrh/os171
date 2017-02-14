@@ -20,3 +20,4 @@ drwxr-xr-x  2 najwa.satirah StafCS 4096 Feb 14 10:31 week09
 drwxr-xr-x  2 najwa.satirah StafCS 4096 Feb 14 10:31 week10
 drwxr-xr-x  2 najwa.satirah StafCS 4096 Feb 14 10:34 xtra
 /home/fasilkom/mahasiswa/n/najwa.satirah/os171/week01
+Today is 14 Feb 2017 at 11:08:36
