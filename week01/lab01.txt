@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 najwa.satirah StafCS 4096 Feb 14 10:49 .
+drwx--x--x  3 najwa.satirah StafCS 4096 Feb 14 10:48 ..
+drwxr-xr-x  8 najwa.satirah StafCS 4096 Feb 14 10:48 .git
+-rw-r--r--  1 najwa.satirah StafCS    7 Feb 14 10:26 README.md
+drwxr-xr-x  2 najwa.satirah StafCS 4096 Feb 14 10:32 key
+-rw-r--r--  1 najwa.satirah StafCS    0 Feb 14 10:50 lab01.txt
+drwxr-xr-x  2 najwa.satirah StafCS 4096 Feb 14 10:32 log
+drwxr-xr-x  2 najwa.satirah StafCS 4096 Feb 14 10:39 sandbox
+drwxr-xr-x  2 najwa.satirah StafCS 4096 Feb 14 10:48 week00
+drwxr-xr-x  2 najwa.satirah StafCS 4096 Feb 14 10:29 week01
+drwxr-xr-x  2 najwa.satirah StafCS 4096 Feb 14 10:30 week02
+drwxr-xr-x  2 najwa.satirah StafCS 4096 Feb 14 10:30 week03
+drwxr-xr-x  2 najwa.satirah StafCS 4096 Feb 14 10:30 week04
+drwxr-xr-x  2 najwa.satirah StafCS 4096 Feb 14 10:30 week05
+drwxr-xr-x  2 najwa.satirah StafCS 4096 Feb 14 10:30 week06
+drwxr-xr-x  2 najwa.satirah StafCS 4096 Feb 14 10:31 week07
+drwxr-xr-x  2 najwa.satirah StafCS 4096 Feb 14 10:31 week08
+drwxr-xr-x  2 najwa.satirah StafCS 4096 Feb 14 10:31 week09
+drwxr-xr-x  2 najwa.satirah StafCS 4096 Feb 14 10:31 week10
+drwxr-xr-x  2 najwa.satirah StafCS 4096 Feb 14 10:34 xtra
+/home/fasilkom/mahasiswa/n/najwa.satirah/os171/week01
